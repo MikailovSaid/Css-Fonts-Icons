@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+}
+.main{
+    padding-bottom: 50px;
+    margin-top: 100px;
+    width: 940px;
+    margin-left: 18%;
+    background-color: white;
+
+}
+.header{
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+.header span{
+    font-family: 'Great Vibes', cursive;
+    font-size: 200px;
+}
+.the{
+    margin-left: 300px;
+}
+.wedding{
+    padding-left: 140px;
+}
+.of{
+    padding-left: 400px;
+}
+.namesdiv{
+    margin-bottom: 50px;
+}
+.names{
+    font-family: 'Catamaran', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    padding-left: 200px;
+}
+.joindiv{
+    margin-right: 50px;
+}
+.join{
+    font-family: 'Catamaran', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 390px;
+}
+.datediv span{
+    font-family: 'Catamaran', sans-serif;
+    font-weight: bold;
+    font-size: 30px; 
+}
+.datediv{
+    margin-left: 320px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.clock{
+    padding-left: 85px;
+}
+.placediv{
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+.place{
+    font-family: 'Catamaran', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 390px;
+}
+.followdiv{
+    padding-left: 410px;
+}
+.follow{
+    font-family: 'Kite One', sans-serif;
+}
